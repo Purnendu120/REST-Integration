@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Details" section_id="467843b083e82210844410c5eeaad3ce" sys_domain="global" table="x_732090_needlt_needit" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-25 15:52:42</sys_created_on>
+            <sys_id>d27883b083e82210844410c5eeaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_732090_needlt_needit" sys_domain="global" view="Default view">467843b083e82210844410c5eeaad3ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-25 15:52:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-25 15:52:42</sys_created_on>
+            <sys_id>5a7883b083e82210844410c5eeaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_732090_needlt_needit" sys_domain="global" view="Default view">467843b083e82210844410c5eeaad3ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-25 15:52:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-25 15:52:42</sys_created_on>
+            <sys_id>de7883b083e82210844410c5eeaad31c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_732090_needlt_needit" sys_domain="global" view="Default view">467843b083e82210844410c5eeaad3ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-25 15:52:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Details</caption>
+            <header>false</header>
+            <name>x_732090_needlt_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-25 15:52:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>467843b083e82210844410c5eeaad3ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_732090_needlt_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Needlt" source="x_732090_needlt">b4223d7883e02210844410c5eeaad3e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Needlt">b4223d7883e02210844410c5eeaad3e2</sys_scope>
+            <sys_update_name>sys_ui_section_467843b083e82210844410c5eeaad3ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-25 15:53:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Needlt">b4223d7883e02210844410c5eeaad3e2</application>
+        <file_path/>
+        <instance_id>11459547ebbb86583a48f459bad0cdeb</instance_id>
+        <instance_name>dev286664</instance_name>
+        <name>sys_ui_section_467843b083e82210844410c5eeaad3ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Details" section_id="467843b083e82210844410c5eeaad3ce" sys_domain="global" table="x_732090_needlt_needit" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-25 15:52:42</sys_created_on><sys_id>d27883b083e82210844410c5eeaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Details" display_value="Details" name="x_732090_needlt_needit" sys_domain="global" view="Default view">467843b083e82210844410c5eeaad3ce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-25 15:52:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-25 15:52:42</sys_created_on><sys_id>5a7883b083e82210844410c5eeaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Details" display_value="Details" name="x_732090_needlt_needit" sys_domain="global" view="Default view">467843b083e82210844410c5eeaad3ce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-25 15:52:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-25 15:52:42</sys_created_on><sys_id>de7883b083e82210844410c5eeaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Details" display_value="Details" name="x_732090_needlt_needit" sys_domain="global" view="Default view">467843b083e82210844410c5eeaad3ce</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-25 15:52:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Details</caption><header>false</header><name>x_732090_needlt_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-25 15:52:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>467843b083e82210844410c5eeaad3ce</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_732090_needlt_needit</sys_name><sys_overrides/><sys_package display_value="Needlt" source="x_732090_needlt">b4223d7883e02210844410c5eeaad3e2</sys_package><sys_policy/><sys_scope display_value="Needlt">b4223d7883e02210844410c5eeaad3e2</sys_scope><sys_update_name>sys_ui_section_467843b083e82210844410c5eeaad3ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-25 15:53:26</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-764191428</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>bc22bdb483242210844410c5eeaad3c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 15:53:26</sys_created_on>
+        <sys_id>01a847b083e82210844410c5eeaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ce0236010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 15:53:26</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>c5a847b011e822102039d7008392a5a4</update_guid>
+        <update_guid_history>c5a847b011e822102039d7008392a5a4:-764191428,567883b070e82210bd5fb69c44ad0c1e:730360418</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 15:54:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>11fab5e054de489ab129b263ad9d0044</sys_id>
+        <sys_metadata>467843b083e82210844410c5eeaad3ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Needlt" source="x_732090_needlt">b4223d7883e02210844410c5eeaad3e2</sys_package>
+        <sys_parent display_value="NeedIt">2886793c83242210844410c5eeaad3fa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">b4223d7883e02210844410c5eeaad3e2</sys_scope>
+        <sys_scope_delete display_value="">8c91b7d7ea4f4280b2d7a42bb23d9000</sys_scope_delete>
+        <sys_update_name>sys_ui_section_467843b083e82210844410c5eeaad3ce</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_467843b083e82210844410c5eeaad3ce">01a847b083e82210844410c5eeaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 15:54:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

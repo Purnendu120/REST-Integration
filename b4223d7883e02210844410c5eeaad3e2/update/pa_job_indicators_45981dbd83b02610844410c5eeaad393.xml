@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <collect>1</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>NeedIt Historical Data - NeedIt: Due Monthly</display>
+        <indicator display_value="NeedIt: Due Monthly">840d18fd837ce210844410c5eeaad37c</indicator>
+        <job display_value="NeedIt Historical Data">747799f983b02610844410c5eeaad351</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 20:33:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45981dbd83b02610844410c5eeaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Due Monthly.NeedIt Historical Data</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Needlt" source="x_732090_needlt">b4223d7883e02210844410c5eeaad3e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">b4223d7883e02210844410c5eeaad3e2</sys_scope>
+        <sys_update_name>pa_job_indicators_45981dbd83b02610844410c5eeaad393</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 20:33:28</sys_updated_on>
+    </pa_job_indicators>
+</record_update>

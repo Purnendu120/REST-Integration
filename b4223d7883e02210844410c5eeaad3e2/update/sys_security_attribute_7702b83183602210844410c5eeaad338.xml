@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_attribute">
+    <sys_security_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>Role=2831a114c611228501d4ea6c309d626d</condition>
+        <description>Auto Created Attribute - ACL_42d1bc3183602210844410c5eeaad321</description>
+        <is_dynamic>true</is_dynamic>
+        <is_localized>true</is_localized>
+        <is_system>false</is_system>
+        <label>ACL_42d1bc3183602210844410c5eeaad321</label>
+        <lookup_table/>
+        <lookup_table_column/>
+        <name>x_732090_needlt__ACL_42d1bc3183602210844410c5eeaad321</name>
+        <script/>
+        <sys_class_name>sys_security_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-28 07:29:28</sys_created_on>
+        <sys_id>7702b83183602210844410c5eeaad338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_732090_needlt__ACL_42d1bc3183602210844410c5eeaad321</sys_name>
+        <sys_package display_value="Needlt" source="x_732090_needlt">b4223d7883e02210844410c5eeaad3e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needlt">b4223d7883e02210844410c5eeaad3e2</sys_scope>
+        <sys_update_name>sys_security_attribute_7702b83183602210844410c5eeaad338</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-28 07:29:28</sys_updated_on>
+        <type>compound</type>
+    </sys_security_attribute>
+</record_update>
